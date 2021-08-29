@@ -1,8 +1,6 @@
 *.txt
-Philosophers.pdf
 libft
 .DS_Store
 .vscode
 .obj
 a.out.dSYM
-Philosphers-42Project-Tester
